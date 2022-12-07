@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\DivyaI\eclipse-workspace\com.hibernate8"/>
+			<item value="C:\Users\DivyaI\eclipse-workspace\com.hibernatesave"/>
+			<item value="C:\Users\DivyaI\eclipse-workspace\com.hibernate7"/>
+			<item value="C:\Users\DivyaI\eclipse-workspace\com.hibernate6"/>
+			<item value="C:\Users\DivyaI\eclipse-workspace\com.hibernate6\src\main\java\com\hibernate6\TestUser.java"/>
+			<item value="C:\Users\DivyaI\eclipse-workspace\A-HibernateExample-3"/>
+			<item value="C:\Users\DivyaI\eclipse-workspace\com.hibernate4"/>
+			<item value="C:\Users\DivyaI\eclipse-workspace\Hibernate\A-HibernateExample-3\A-HibernateExample-3"/>
+			<item value="C:\Users\DivyaI\eclipse-workspace\com.hibernate2"/>
+			<item value="C:\Users\DivyaI\eclipse-workspace\StudentEximationApplication"/>
+			<item value="C:\Users\DivyaI\eclipse-workspace\9-powermockforprivatemethod\4-MockitoExample_mock2"/>
+			<item value="C:\Users\DivyaI\eclipse-workspace\com.testFinal"/>
+			<item value="C:\Users\DivyaI\eclipse-workspace\RE__Notes_\2-MockitoExample\3-MockitoExample_mock"/>
+			<item value="C:\Users\DivyaI\Downloads\JAVA\ProdCRUDOperationUsingJDBCAPI\ProdCRUDOperationUsingJDBCAPI"/>
+			<item value="C:\Users\DivyaI\eclipse-workspace\Testing"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="internal"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="AssignmentclassHql.com"/>
+			<item value="com.hibernatesave1"/>
+			<item value="com.hibernatesave"/>
+			<item value="com.hibernate8"/>
+			<item value="com.hibernate7"/>
+			<item value="com.hibernate6"/>
+			<item value="com.hibernate5"/>
+			<item value="com.hibernate4"/>
+			<item value="com.hibernate3"/>
+			<item value="com.hibernate2"/>
+			<item value="com.hibernate"/>
+			<item value="com.testConstructor"/>
+			<item value="com.testFinal"/>
+			<item value="com.testProduct"/>
+			<item value="com.testdb"/>
+		</list>
+		<list key="groupId">
+			<item value="Assignmentclass"/>
+			<item value="com.hibernatesave1"/>
+			<item value="com.hibernatesave"/>
+			<item value="com.hibernate8"/>
+			<item value="com.hibernate7"/>
+			<item value="com.hibernate6"/>
+			<item value="com.hibernate5"/>
+			<item value="com.hibernate4"/>
+			<item value="com.hibernate3"/>
+			<item value="com.hibernate2"/>
+			<item value="com.hibernate"/>
+			<item value="com.testConstructor"/>
+			<item value="com.testFinal"/>
+			<item value="com.testProduct"/>
+			<item value="com.testdb"/>
+		</list>
+		<list key="artifactId">
+			<item value="com.Assignmentclass"/>
+			<item value="com.hibernatesave1"/>
+			<item value="com.hibernatesave"/>
+			<item value="com.hibernate8"/>
+			<item value="com.hibernate7"/>
+			<item value="com.hibernate6"/>
+			<item value="com.hibernate5"/>
+			<item value="com.hibernate4"/>
+			<item value="com.hibernate3"/>
+			<item value="com.hibernate2"/>
+			<item value="com.hibernate"/>
+			<item value="com.testConstructor"/>
+			<item value="com.testFinal"/>
+			<item value="com.testProduct"/>
+			<item value="com.testdb"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

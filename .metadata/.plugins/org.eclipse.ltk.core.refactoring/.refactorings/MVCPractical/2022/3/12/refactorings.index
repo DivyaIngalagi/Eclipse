@@ -1,0 +1,22 @@
+1647534854689	Delete element
+1647536046470	Rename resource 'config.xml'
+1647536155820	Rename resource 'Home.jsp'
+1647536188370	Delete element
+1647537084163	Delete element
+1647537583097	Rename resource 'home.jsp'
+1647541156369	Move 'common.jsp' to 'view'
+1647541159663	Move 'style.css' to 'view'
+1647541324576	Move 'index.jsp' to 'resources'
+1647541327766	Move 'style.css' to 'resources'
+1647541386254	Copy file
+1647541390182	Move 'common.jsp' to 'resources'
+1647541395177	Delete element
+1647541565533	Move 'style.css' to 'WEB-INF'
+1647541567516	Move 'common.jsp' to 'WEB-INF'
+1647574712058	Move 'style.css' to 'csspages'
+1647577491302	Rename resource 'added.jsp'
+1647593018979	Delete element
+1647605262691	Move 'common.jsp' to 'view'
+1647662155853	Rename resource 'spring-servlet.xml'
+1647662328365	Rename resource 'spring1-servlet.xml'
+1647670739403	Delete element

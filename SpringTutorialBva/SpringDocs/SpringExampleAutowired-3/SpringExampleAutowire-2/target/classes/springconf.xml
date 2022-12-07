@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+		http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-4.3.xsd">
+
+
+
+
+
+
+<!-- here we remove ref for constructor dependency -->
+<!-- It doesnot give eror if ha ame ype -->
+<!-- It gives error if have different reference than payment -->
+<!-- for constructor dependency always use constructordependency -->
+ <!-- <bean id="cust1"  class="com.spring.Customer" autowire="constructor">
+<constructor-arg type="int" value="111"></constructor-arg>
+<constructor-arg value="David"></constructor-arg>
+</bean> 
+
+
+<bean id="pay" class="com.spring.Payment">
+<constructor-arg value="8000"></constructor-arg>
+<constructor-arg value="Payment Done"></constructor-arg>
+</bean>
+
+<bean id="payment" class="com.spring.Payment">
+<constructor-arg value="8000"></constructor-arg>
+<constructor-arg value="Payment Done"></constructor-arg>
+</bean>
+-->
+
+<!-- byType Problem occurs when we have two payment details -->
+<!-- <bean id="cust1"  class="com.spring.Customer" autowire="byType">
+<property name="custId"  value="102"/>
+<property name="custName" value="Corton" />
+</bean>
+
+
+<bean id="pay" class="com.spring.Payment">
+<constructor-arg value="8000"></constructor-arg>
+<constructor-arg value="Payment Done"></constructor-arg>
+</bean>-->
+
+
+<!-- byType gives error bcoz payment has two types -->
+<!-- if we give same name as in class payment then aslo it gives error -->
+<!-- <bean id="cust1"  class="com.spring.Customer" autowire="byType">
+<property name="custId"  value="102"/>
+<property name="custName" value="Corton" />
+</bean>
+
+
+<bean id="pay" class="com.spring.Payment">
+<constructor-arg value="8000"></constructor-arg>
+<constructor-arg value="Payment Done"></constructor-arg>
+</bean>
+
+
+<
+<bean id="pay2" class="com.spring.Payment">
+<constructor-arg value="8000"></constructor-arg>
+<constructor-arg value="Payment Done"></constructor-arg>
+</bean>
+-->
+
+<!-- byName 
+<bean id="cust1"  class="com.spring.Customer" autowire="byName">
+<property name="custId"  value="102"/>
+<property name="custName" value="Corton" />
+</bean>
+
+
+<bean id="pay" class="com.spring.Payment">
+<constructor-arg value="8000"></constructor-arg>
+<constructor-arg value="Payment Done"></constructor-arg>
+</bean> -->
+
+
+<!-- if we give same name as in class payment then it doesn't gives error -->
+<!-- <bean id="payment" class="com.spring.Payment">
+<constructor-arg value="8000"></constructor-arg>
+<constructor-arg value="Payment Done"></constructor-arg>
+</bean>-->
+
+<!-- if we give different name as in class payment then it doesn't gives error but it returs null for dependency clas object 
+<bean id="pay1" class="com.spring.Payment">
+<constructor-arg value="8000"></constructor-arg>
+<constructor-arg value="Payment Done"></constructor-arg>
+</bean>
+ -->
+<!-- Customer [custId=102, custName=Corton, payment=null]
+ -->
+
+</beans>

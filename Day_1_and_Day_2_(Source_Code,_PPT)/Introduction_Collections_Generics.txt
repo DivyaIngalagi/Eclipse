@@ -1,0 +1,55 @@
+Introduction to Collections and Generics
+
+
+1) Any group of individual objects which are represented as a single unit is known as the collection of the objects. 
+ 
+2) The Collection interface (java.util.Collection) and Map interface (java.util.Map) are the two main “root” 
+   interfaces of Java collection classes.
+
+What is a Framework?
+-------------------
+
+A framework is a set of classes and interfaces which provide a ready-made architecture. 
+In order to implement a new feature or a class, there is no need to define a framework. 
+However, an optimal object-oriented design always includes a framework with a collection of classes 
+such that all the classes perform the same kind of task. 
+
+Need for a Separate Collection Framework
+---------------------------------------
+
+Before the Collection Framework(or before JDK 1.2) was introduced, the standard methods for grouping Java objects 
+(or collections) were Arrays or Vectors, or Hashtables. All of these collections had no common interface. 
+Therefore, though the main aim of all the collections is the same, the implementation of all these collections 
+was defined independently and had no correlation among them. And also, it is very difficult for the users to remember 
+all the different methods, syntax, and constructors present in every collection class. 
+
+Advantages of the Collection Framework: 
+---------------------------------------
+
+Since the lack of a collection framework gave rise to the above set of disadvantages, the following are the advantages
+ of the collection framework. 
+
+Consistent API: The API has a basic set of interfaces like Collection, Set, List, or Map, all the classes
+ (ArrayList, LinkedList, Vector, etc) that implement these interfaces have some common set of methods.
+ 
+Reduces programming effort: A programmer doesn’t have to worry about the design of the Collection but rather
+ he can focus on its best use in his program. Therefore, the basic concept of Object-oriented programming (i.e.) abstraction has been successfully implemented.
+ 
+Increases program speed and quality: Increases performance by providing high-performance implementations of
+ useful data structures and algorithms because in this case, the programmer need not think of the best 
+implementation of a specific data structure. He can simply use the best implementation to drastically boost the 
+performance of his algorithm/program.
+
+
+Hierarchy of the Collection Framework
+
+					java.lang.Iterable
+						|
+					java.util.Collections					java.util.Map
+			|					 |				|	       |
+		java.util.List					java.util.Set	   java.util.HashMap	   java.util.TreeMap
+		|	   |
+java.util.ArrayList    java.util.LinkedList		java.util.HashSet  java.util.TreeSet
+
+LinkedHashSet: 
+A LinkedHashSet is very similar to a HashSet. The difference is that this uses a doubly linked list to store the data and retains the ordering of the elements. 

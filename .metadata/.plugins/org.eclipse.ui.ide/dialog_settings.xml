@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SaveAsDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="534"/>
+		<item key="DIALOG_Y_ORIGIN" value="47"/>
+		<item key="DIALOG_WIDTH" value="875"/>
+		<item key="DIALOG_HEIGHT" value="711"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\DivyaI\eclipse-workspace\SpringTutorialBva\SpringDocs\SpringExampleAutowired-3\SpringExampleScope_5"/>
+			<item value="C:\Users\DivyaI\eclipse-workspace\SpringTutorialBva\SpringDocs\SpringExampleAutowired-3\SpringExampleJavaConfiguration-4"/>
+			<item value="C:\Users\DivyaI\eclipse-workspace\SpringTutorialBva\SpringDocs\SpringExampleAutowired-3\SpringExampleAutowired-3"/>
+			<item value="C:\Users\DivyaI\eclipse-workspace\SpringTutorialBva\SpringDocs\SpringExampleAutowired-3\SpringExampleAutowire-2"/>
+			<item value="C:\Users\DivyaI\eclipse-workspace\SpringTutorialBva\SpringDocs\SpringExampleAutowired-3\SpringExample-1"/>
+			<item value="C:\Users\DivyaI\eclipse-workspace\A-HibernateExample-8\9-powermockforprivatemethod\src"/>
+			<item value="C:\Users\DivyaI\eclipse-workspace\A-HibernateExample-8\A-HibernateExample-8"/>
+			<item value="C:\Users\DivyaI\eclipse-workspace\A-HibernateExample-8\A-HibernateExample-7"/>
+			<item value="C:\Users\DivyaI\eclipse-workspace\A-HibernateExample-6"/>
+			<item value="C:\Users\DivyaI\eclipse-workspace\Hibernate6"/>
+			<item value="C:\Users\DivyaI\eclipse-workspace\Hibernate5"/>
+			<item value="C:\Users\DivyaI\eclipse-workspace\Hibernate4"/>
+			<item value="C:\Users\DivyaI\eclipse-workspace\Hibernate\A-HibernateInheritanceExample-4\A-HibernateInheritanceExample-4"/>
+			<item value="C:\Users\DivyaI\eclipse-workspace\Hibernate\A-HibernateInheritanceExample-4"/>
+			<item value="C:\Users\DivyaI\eclipse-workspace\A-HibernateInheritanceExample-4"/>
+			<item value="C:\Users\DivyaI\eclipse-workspace\A-HibernateExample-3"/>
+			<item value="C:\Users\DivyaI\eclipse-workspace\Hibernate\A-HibernateExample-3\A-HibernateExample-3"/>
+			<item value="C:\Users\DivyaI\eclipse-workspace\Hibernate\A-HibernateExample-3\A-HibernateExample-2"/>
+			<item value="C:\Users\DivyaI\eclipse-workspace\Hibernate\A-HibernateExample-3\A-HibernateExample-1"/>
+			<item value="C:\Users\DivyaI\eclipse-workspace\1-JunitExample11"/>
+			<item value="C:\Users\DivyaI\eclipse-workspace\9-powermockforprivatemethod\9-powermockforprivatemethod"/>
+			<item value="C:\Users\DivyaI\eclipse-workspace\9-powermockforprivatemethod\8-powermock"/>
+			<item value="C:\Users\DivyaI\eclipse-workspace\9-powermockforprivatemethod\7-SpyMockExample"/>
+			<item value="C:\Users\DivyaI\eclipse-workspace\9-powermockforprivatemethod\6-HamcrestProject"/>
+			<item value="C:\Users\DivyaI\eclipse-workspace\9-powermockforprivatemethod"/>
+			<item value="C:\Users\DivyaI\eclipse-workspace\RE__Notes_\2-MockitoExample\3-MockitoExample_mock"/>
+			<item value="C:\Users\DivyaI\eclipse-workspace\RE__Notes_\2-MockitoExample\2-MockitoExample"/>
+			<item value="C:\Users\DivyaI\eclipse-workspace\RE__Notes_\2-MockitoExample"/>
+			<item value="C:\Users\DivyaI\eclipse-workspace\Junit"/>
+			<item value="C:\Users\DivyaI\eclipse-workspace\Junit\2-JunitExample"/>
+			<item value="C:\Users\DivyaI\eclipse-workspace\Seventh"/>
+			<item value="C:\Users\DivyaI\eclipse-workspace\Seventh\src (4)"/>
+			<item value="C:\Users\DivyaI\eclipse-workspace\Sixth"/>
+			<item value="C:\Users\DivyaI\eclipse-workspace\Fifth"/>
+			<item value="C:\Users\DivyaI\eclipse-workspace\Fifth\src (2)\src"/>
+			<item value="C:\Users\DivyaI\eclipse-workspace\Fourth\src (1)"/>
+			<item value="C:\Users\DivyaI\eclipse-workspace\Thirdcls\src\src"/>
+			<item value="C:\Users\DivyaI\eclipse-workspace\src"/>
+			<item value="C:\Users\DivyaI\Downloads\JAVA\PreImpactStudentRestAPI"/>
+			<item value="C:\Users\DivyaI\Downloads\PreImpactStudentRestAPI"/>
+			<item value="C:\Users\DivyaI\Downloads\PreImpactRESTDemo1\PreImpactRESTDemo1"/>
+			<item value="C:\Users\DivyaI\Downloads\MVCDemo\MVCDemo"/>
+			<item value="C:\Users\DivyaI\Downloads\MVCDemo"/>
+			<item value="C:\Users\DivyaI\Downloads\JAVA\MVCDemo\MVCDemo"/>
+			<item value="C:\Users\DivyaI\Downloads\JAVA\MVCDemo"/>
+			<item value="C:\Users\DivyaI\Downloads\MyShoppingApplicationpreImpact\MyShoppingApplicationpreImpact"/>
+			<item value="C:\Users\DivyaI\Downloads\MyShoppingApplicationpreImpact"/>
+			<item value="C:\Users\DivyaI\Downloads\JAVA\MyShoppingApplicationpreImpactAll\MyShoppingApplicationpreImpactAll"/>
+			<item value="C:\Users\DivyaI\Downloads\JAVA\MyShoppingApplicationpreImpactAll"/>
+			<item value="C:\Users\DivyaI\Downloads\JAVA\MyShoppingApplicationpreImpact\MyShoppingApplicationpreImpact"/>
+			<item value="C:\Users\DivyaI\Downloads\JAVA\MyShoppingApplicationpreImpact"/>
+			<item value="C:\Users\DivyaI\Downloads\JAVA\PreImpctSpringDay3Demosc"/>
+			<item value="C:\Users\DivyaI\Downloads\JAVA\PreImpctSpringDay3Demos"/>
+			<item value="C:\Users\DivyaI\Downloads\JAVA\SpringDay2PreImpact"/>
+			<item value="C:\Users\DivyaI\Downloads\JAVA\preImpactSpringDay1\preImpactSpringDay1"/>
+			<item value="C:\Users\DivyaI\Downloads\JAVA\ProdCRUDOperationUsingJDBCAPI\ProdCRUDOperationUsingJDBCAPI"/>
+			<item value="C:\Users\DivyaI\Downloads\JAVA\Day4"/>
+			<item value="C:\Users\DivyaI\Downloads\JAVA\Day3"/>
+			<item value="C:\Users\DivyaI\Downloads\JAVA\LoopingDemo"/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.m2e.core.wizards.Maven2ProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.m2e"/>
+		</list>
+	</section>
+	<section name="CleanDialogSettings">
+		<item key="TOGGLE_SELECTED" value="false"/>
+		<item key="DIALOG_WIDTH" value="828"/>
+		<item key="DIALOG_HEIGHT" value="482"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+	<section name="org.eclipse.ui.dialogs.FilteredResourcesSelectionDialog">
+		<item key="ShowStatusLine" value="true"/>
+		<item key="History" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History&gt;&#x0D;&#x0A;&lt;historyRootNode/&gt;&#x0D;&#x0A;&lt;/History&gt;"/>
+		<item key="ShowDerived" value="false"/>
+		<item key="FilterByLocation" value="false"/>
+		<item key="WorkingSet" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;workingSet workingSetName=&quot;&quot;/&gt;"/>
+		<section name="DialogBoundsSettings">
+			<item key="DIALOG_HEIGHT" value="500"/>
+			<item key="DIALOG_WIDTH" value="600"/>
+			<item key="DIALOG_X_ORIGIN" value="671"/>
+			<item key="DIALOG_Y_ORIGIN" value="188"/>
+			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		</section>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="534"/>
+		<item key="DIALOG_Y_ORIGIN" value="209"/>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+</section>

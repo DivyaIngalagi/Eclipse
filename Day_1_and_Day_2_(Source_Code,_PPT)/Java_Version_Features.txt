@@ -1,0 +1,33 @@
+1) Java:
+	Its a software platform for building cross-platform applications to safely execute on the underlying system.
+
+
+2) Verions and its Features:
+	JDK 1  (January 23, 1996)
+		1) First stable version JDK 1.0.2 called Java 1
+			a) AWT event model, Inner classes, Java Beans, JDBC, RMI, Reflection
+	J2SE 1.2  (December 8, 1998)
+		1) The release was called as Playground 
+			a) Swing graphical API, Collections framework
+	J2SE 1.3 (May 8 2000)
+		1) The release was called Kestrel
+			a) HotSpot JVM, JNDI
+	J2SE 1.4 (February 6, 2002)
+		1) This release was called Merlin
+			a) Regular expressions, Exception chanining, NIO, JAXP
+	J2SE 5.0 (September 30, 2004) 
+		1) This release was called Tiger (5.0 instead of 1.5)
+			a) Generics, Annotations, Autoboxing/unboxig, Enumerations, Varargs, for each loop, static imports, java.util.Concurrent, Scanner 
+	J2SE 6 (December 11, 2006)
+		1) This release was called Mustang, Sun dropped .0 from the version
+			a) Scripting Language Support, JAX-WS, New GC algorithms
+	Java SE 7 (July 28, 2011)
+		1) This release was called (Dolphin)
+			a) Strings in switch, Try-with resources, diamond operator, ForkJoin Framework  
+	Java 8 (March 18, 2014)
+		1) Code name culture was dropped
+			a) Lambda expression, Stream API, Functional interface and default methods, Optional, Nashorn, New Date and Time API, 
+			   statically linked JNI libraries
+
+		
+	

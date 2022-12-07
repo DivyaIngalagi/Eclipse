@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;Junit/CsvSource.xlsx&apos; to &apos;CsvSource.xls&apos;" description="Rename resource &apos;CsvSource.xlsx&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="CsvSource.xlsx" name="CsvSource.xls" stamp="1652603859441" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;Junit/CsvSource.xls&apos; to &apos;CsvSource.xlsx&apos;" description="Rename resource &apos;CsvSource.xls&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="CsvSource.xls" name="CsvSource.xlsx" stamp="1652603871281" updateReferences="true"/>
+</session>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="2-MockitoExample/src/main/java"/>
+	<classpathentry kind="src" path="2-MockitoExample/src/test/java"/>
+	<classpathentry kind="src" path="3-MockitoExample_mock/src/main/java"/>
+	<classpathentry kind="src" path="3-MockitoExample_mock/src/test/java"/>
+	<classpathentry kind="output" path="2-MockitoExample/target/classes"/>
+</classpath>

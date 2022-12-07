@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="SpringExample-1/src/main/java"/>
+	<classpathentry kind="src" path="SpringExampleAutowire-2/src/main/java"/>
+	<classpathentry kind="src" path="SpringExampleAutowired-3/src/main/java"/>
+	<classpathentry kind="src" path="SpringExampleJavaConfiguration-4/src/main/java"/>
+	<classpathentry kind="src" path="SpringExampleScope_5/src/main/java"/>
+	<classpathentry kind="output" path="SpringExample-1/target/classes"/>
+</classpath>

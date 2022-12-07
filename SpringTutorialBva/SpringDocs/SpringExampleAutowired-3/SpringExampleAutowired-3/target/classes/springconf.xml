@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+		http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-4.3.xsd">
+
+
+<context:annotation-config/>
+
+
+
+
+<bean id="cust1"  class="com.spring.Customer">
+ <!-- <constructor-arg type="int" value="111"></constructor-arg>
+<constructor-arg value="David"></constructor-arg>--> 
+ <property name="custId"  value="102"/>
+<property name="custName" value="Corton" />
+</bean>
+
+
+<bean id="pay" class="com.spring.Payment">
+<constructor-arg value="8000"></constructor-arg>
+<constructor-arg value="Payment Done"></constructor-arg>
+</bean>
+
+ <bean id="pay2" class="com.spring.Payment">
+<constructor-arg value="8000"></constructor-arg>
+<constructor-arg value="Payment Done"></constructor-arg>
+</bean>
+
+</beans>
+
+
+
+
+
+
+
+
+
+<!-- By default bytype is there for @Autowire -->
+<!-- Qualifier cannot be use on top of constructors -->
+<!-- If we use constructor then we have to keep @Autowired on that only -->

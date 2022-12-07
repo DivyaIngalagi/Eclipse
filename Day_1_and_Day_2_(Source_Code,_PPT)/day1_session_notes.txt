@@ -1,0 +1,51 @@
+int x = 7;
+int* ptr;
+
+func(ptr);
+
+func(int* ptr)
+{
+	printf("%d\n", *ptr); //
+} 
+
+
+int[] array = {1, 2, 3, 4};
+Vector<Integer> v = new Vector();
+Hashtable<Integer, String> h = new Hashtable();
+
+v.addElement(10);
+
+h.put(1, "Jack");
+
+
+					java.lang.Iterable (Iteration)
+
+
+					java.util.Collection (Addition)
+
+			(RandomAccess, duplicates)		(Order, No duplicates)
+			java.util.List 				java.util.Set
+
+	java.util.LinkedList	java.util.ArrayList	java.util.HashSet java.utilTreeSet
+		O(n)			O(1)
+
+
+	{a, b} = {b , a}
+14, 7, 22, 6, 40
+
+					14
+				7		22
+			6				40		
+
+
+				java.util.Map
+
+	java.util.HashMap			java.util.TreeMap
+			
+
+
+
+
+
+
+				
